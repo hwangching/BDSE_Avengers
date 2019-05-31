@@ -1,0 +1,11 @@
+
+*.csv
+return_prediction/.ipynb_checkpoints/Analysis-checkpoint.ipynb
+return_prediction/data/.ipynb_checkpoints/Analysis-checkpoint.ipynb
+return_prediction/data/.ipynb_checkpoints/preprocessing_test-checkpoint.ipynb
+return_prediction/data/.ipynb_checkpoints/preprocessing_train-checkpoint.ipynb
+return_prediction/.DS_Store
+return_prediction/data/.DS_Store
+.DS_Store
+*.gz
+*.xlsx
